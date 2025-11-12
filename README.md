@@ -3,6 +3,9 @@
 <p align="center">
   Web3 Security Architect  
   <br>
+  Solana DApp & Auditing Specialist 
+    <br>
+
   🇵🇰 Based in Karachi, Pakistan
 </p>
 
