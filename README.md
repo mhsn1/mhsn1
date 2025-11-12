@@ -5,7 +5,6 @@
   <br>
   Solana DApp & Auditing Specialist 
     <br>
-
   🇵🇰 Based in Karachi, Pakistan
 </p>
 
