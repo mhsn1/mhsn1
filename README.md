@@ -52,7 +52,7 @@
 
 ### Contact Me
 
--  Email: mohsinaif84@gmail.com  
+-  Email: mohsinarif@mhxmllc.com  
 -  TryHackMe: [tryhackme.com/p/mhsnarf](https://tryhackme.com/p/mhsnarf)  
 -  GitHub: [github.com/mhsn1](https://github.com/mhsn1)
 
