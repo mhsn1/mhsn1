@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Mohsin Arif (mhsnarf)</h1>
 
 <p align="center">
-  Fullstack Developer |Ethical Hacker |Automation Enthusiast  
+  Web3 Security Architect  
   <br>
   🇵🇰 Based in Karachi, Pakistan
 </p>
