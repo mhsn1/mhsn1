@@ -5,7 +5,7 @@
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Security+Researcher+%26+Ethical+Hacker;Power+%3E+Process+%3A+Shannon+Entropy+Never+Lies;أنا أفكر، إذن أنا موجود2 / 2+%E2%80%94+I+Think%2C+Therefore+I+Am;Building+Instruments%2C+Not+Dashboards;Signal+%3E+Noise+%C2%B7+Entropy+%3E+Certainty" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Security+Researcher+%26+Ethical+Hacker;Power+%3E+Process+%3A+Shannon+Entropy+Never+Lies;Cogito+Ergo+Sum+%E2%80%94+I+Think%2C+Therefore+I+Am;Building+Instruments%2C+Not+Dashboards;Signal+%3E+Noise+%C2%B7+Entropy+%3E+Certainty" alt="Typing SVG" />
 </a>
 
 <br><br>
