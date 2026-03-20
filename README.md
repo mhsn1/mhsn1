@@ -123,6 +123,15 @@ currently:
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=mhsn1&bg_color=0d1117&color=58a6ff&line=58a6ff&point=cdd9e5&area=true&area_color=1a1f2e&hide_border=true&radius=8"/>
 </div>
 
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mhsn1&theme=github_dark"/>
+</div>
+
+<div align="center">
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mhsn1&theme=github_dark"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mhsn1&theme=github_dark"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mhsn1&theme=github_dark&utcOffset=5"/>
+</div>
 ---
 
 ###  Contributions — Alive
