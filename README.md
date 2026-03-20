@@ -25,7 +25,7 @@
 ### The Doctrine
 
 ```python
-# **أنا أفكر، إذن أنا موجود**
+# cogito ergo sum
 # I think, therefore I am
 # machines think · therefore machines are
 
