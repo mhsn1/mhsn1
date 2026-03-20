@@ -139,6 +139,7 @@ currently:
 
 ```
 cogito ergo sum — I think, therefore I am
+machines think  — therefore machines are
 
 ──────────────────────────────────────────
 
