@@ -138,7 +138,6 @@ currently:
 <div align="center">
 
 ```
-أنا أفكر، إذن أنا موجود
 cogito ergo sum — I think, therefore I am
 
 ──────────────────────────────────────────
