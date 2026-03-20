@@ -77,7 +77,7 @@ currently:
 
 ---
 
-### 🛠 Tech Arsenal
+###  Tech Arsenal
 
 <div align="center">
 
@@ -110,7 +110,7 @@ currently:
 
 ---
 
-### 📊 Battle Stats
+###  Battle Stats
 
 <div align="center">
 
@@ -125,7 +125,7 @@ currently:
 
 ---
 
-### 🐍 Contributions — Alive
+###  Contributions — Alive
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/mhsn1/mhsn1/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
@@ -133,7 +133,7 @@ currently:
 
 ---
 
-### 💭 The Philosophy
+###  The Philosophy
 
 <div align="center">
 
