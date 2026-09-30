@@ -1,121 +1,88 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0c0b0a,100:34d399&height=190&section=header&text=Mohsin%20Arif&fontSize=46&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=AI%20%2F%20LLM%20Security%20Researcher%20%C2%B7%20I%20build%20AI%20systems%20%E2%80%94%20and%20break%20them&descAlignY=58&descSize=16&descColor=a7f3d0"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:faf9f6,100:efece4&height=170&section=header&text=Mohsin%20Arif&fontSize=48&fontColor=1a1a1a&animation=fadeIn&fontAlignY=42&desc=AI%20Chatbot%20%26%20Voice%20Agent%20Developer&descAlignY=64&descSize=17&descColor=444444"/>
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3200&pause=800&color=34D399&center=true&vCenter=true&width=760&height=50&lines=Security+Researcher+%F0%9F%9B%A1%EF%B8%8F+%7C+AI+%2F+LLM+%C2%B7+AppSec+%C2%B7+Vuln+Research;I+break+AI+systems+before+attackers+do.;Prompt+injection+%C2%B7+model-supply-chain+%C2%B7+RAG+security;Responsible+disclosure+%3E+bragging+%C2%B7+Signal+%3E+Noise;Instruments%2C+not+dashboards." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=19&duration=3600&pause=900&color=1A1A1A&center=true&vCenter=true&width=720&height=46&lines=Answers+from+your+world+%E2%80%94+never+made+up.;RAG+%C2%B7+GPT+%C2%B7+Claude+%C2%B7+Voice+%C2%B7+Shopify+%C2%B7+Automation;Grounded+over+guessing.+Sources+over+confidence." alt="typing" />
 </a>
 
 <br>
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-mhsnarf-212C42?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/mhsnarf)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mhxmllc.com-1a1a1a?style=flat-square&labelColor=faf9f6&color=1a1a1a)](https://www.mhxmllc.com)
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/mhsn1?style=social)](https://github.com/mhsn1)
+[![Location](https://img.shields.io/badge/Karachi-Pakistan-444444?style=flat-square&labelColor=faf9f6)](#)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-mhxmllc.com-34d399?style=flat&logo=googlechrome&logoColor=white)](https://www.mhxmllc.com)
-&nbsp;
-[![Location](https://img.shields.io/badge/Karachi-Pakistan-34d399?style=flat&logo=googlemaps&logoColor=white)](#)
+[![Available](https://img.shields.io/badge/Open%20to-Freelance%20%26%20Projects-2f7d5b?style=flat-square&labelColor=faf9f6)](https://www.mhxmllc.com)
 
 </div>
-
----
-
-<img align="right" width="42%" src="https://github-readme-stats.vercel.app/api?username=mhsn1&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0c0b0a&title_color=34d399&icon_color=34d399&text_color=c9d1d9&ring_color=34d399" />
-
-### `whoami`
-
-```yaml
-name:      Mohsin Arif
-handle:    mhsn1  ·  mhsnarf
-location:  Karachi, Pakistan 🇵🇰
-focus:     AI / LLM Security · Application Security · Vulnerability Research
-
-thesis: "AI systems are shipping faster than
-         they're being secured. I sit on the
-         seam — I build RAG/LLM apps, so I know
-         exactly where they break."
-
-currently:
-  - researching: prompt injection & LLM/model supply-chain attacks
-  - building:    ghostshield — an LLM security scanner
-  - disclosing:  vulns in open-source AI/ML tooling
-  - grinding:    CTFs & hands-on labs (TryHackMe)
-```
-
-<br clear="right"/>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mhsn1&hide_border=true&background=0c0b0a&stroke=34d399&ring=34d399&fire=34d399&currStreakLabel=34d399&sideLabels=c9d1d9&dates=8b949e&currStreakNum=fff&sideNums=fff" width="55%" />
-
-</div>
-
----
-
-### 🔬 Selected Research & Work
-
-<div align="center">
-
-[![ghostshield](https://github-readme-stats.vercel.app/api/pin/?username=mhsn1&repo=ghostshield&hide_border=true&description_lines_count=2&bg_color=0c0b0a&title_color=34d399&icon_color=34d399&text_color=c9d1d9)](https://github.com/mhsn1/ghostshield)
-[![ghost-resource-tracker](https://github-readme-stats.vercel.app/api/pin/?username=mhsn1&repo=ghost-resource-tracker&hide_border=true&description_lines_count=2&bg_color=0c0b0a&title_color=34d399&icon_color=34d399&text_color=c9d1d9)](https://github.com/mhsn1/ghost-resource-tracker)
-
-</div>
-
-- 🛡️ **ghostshield** — an AI-powered **LLM security scanner** that fires real prompt-injection attacks at a model and reports what gets through. Offensive testing for the AI stack.
-- ⚡ **ghost-resource-tracker** — detects hidden **cryptominers & malware by their power signature**, using DEFCON-style threat scoring + Shannon entropy. Detection where signatures fail.
-- 🔓 **Vulnerability research** — discovered & built a working **PoC** for a **path-traversal → arbitrary file write** in an open-source AI/ML **model loader**: a malicious model archive escapes its extraction directory (tar-slip → potential RCE on model load).
-- 🧩 **CTF & write-ups** — e.g. *RabbitHole (TryHackMe)* — SQLi via MySQL `PROCESSLIST`, OSCP-style methodology.
-
----
-
-### 🎯 Focus Areas
-
-<div align="center">
-
-| Domain | What I do |
-|--------|-----------|
-| **AI / LLM Security** | Prompt injection, jailbreaks, RAG data-leak, model-file supply-chain |
-| **Vulnerability Research** | Source-code audits → PoC → responsible disclosure (CVE-class bugs) |
-| **Application Security** | Access-control / IDOR, path traversal, unsafe deserialization, SSRF |
-| **Detection Engineering** | Behavioral / entropy-based malware & miner detection |
-
-</div>
-
----
-
-### 🧰 Arsenal
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-0c0b0a?style=for-the-badge&logo=python&logoColor=34d399)
-![TypeScript](https://img.shields.io/badge/TypeScript-0c0b0a?style=for-the-badge&logo=typescript&logoColor=34d399)
-![Bash](https://img.shields.io/badge/Bash-0c0b0a?style=for-the-badge&logo=gnubash&logoColor=34d399)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-0c0b0a?style=for-the-badge&logo=burpsuite&logoColor=34d399)
-![Linux](https://img.shields.io/badge/Linux-0c0b0a?style=for-the-badge&logo=linux&logoColor=34d399)
-![Docker](https://img.shields.io/badge/Docker-0c0b0a?style=for-the-badge&logo=docker&logoColor=34d399)
-<br>
-![LangChain](https://img.shields.io/badge/LangChain-0c0b0a?style=for-the-badge&logo=langchain&logoColor=34d399)
-![OpenAI](https://img.shields.io/badge/GPT-0c0b0a?style=for-the-badge&logo=openai&logoColor=34d399)
-![Anthropic](https://img.shields.io/badge/Claude-0c0b0a?style=for-the-badge&logo=anthropic&logoColor=34d399)
-![Git](https://img.shields.io/badge/Git-0c0b0a?style=for-the-badge&logo=git&logoColor=34d399)
-![Wireshark](https://img.shields.io/badge/Wireshark-0c0b0a?style=for-the-badge&logo=wireshark&logoColor=34d399)
-![Nmap](https://img.shields.io/badge/Nmap-0c0b0a?style=for-the-badge&logo=nmap&logoColor=34d399)
-
-</div>
-
----
-
-<div align="center">
-
-### 📫 Reach me
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-mhxmllc.com-34d399?style=for-the-badge&logo=googlechrome&logoColor=0c0b0a)](https://www.mhxmllc.com)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-mhsnarf-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/mhsnarf)
 
 <br>
 
-*“Grounded over guessing · Sources over confidence · Signal over noise.”*
+> ### “I'd rather your bot say *‘I don't know’* than lie to a customer.”
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:34d399,100:0c0b0a&height=110&section=footer"/>
+I build **AI chatbots and voice agents that answer from *your* world** — your documents, products, and policies — **with sources, not guesses**. When the answer isn't there, the bot says so and hands off to a human. Grounded over guessing; sources over confidence.
+
+<br>
+
+## What I build
+
+<div align="center">
+
+| | | |
+|:--|:--|:--|
+| **RAG Chatbots** — answer from your data, with citations | **Commerce AI** — bots that actually help customers buy | **Shopify** — storefronts + AI, built to sell |
+| **Document AI** — extract, search & summarize your docs | **Voice Agents** — natural phone/voice assistants | **Automation** — connect GPT/Claude to real workflows |
+
+</div>
+
+<br>
+
+## Selected work
+
+<div align="center">
+
+[![ai-support-chatbot](https://github-readme-stats.vercel.app/api/pin/?username=mhsn1&repo=ai-support-chatbot&hide_border=true&bg_color=faf9f6&title_color=1a1a1a&icon_color=2f7d5b&text_color=444444&description_lines_count=2)](https://github.com/mhsn1/ai-support-chatbot)
+[![ghostshield](https://github-readme-stats.vercel.app/api/pin/?username=mhsn1&repo=ghostshield&hide_border=true&bg_color=faf9f6&title_color=1a1a1a&icon_color=2f7d5b&text_color=444444&description_lines_count=2)](https://github.com/mhsn1/ghostshield)
+
+</div>
+
+- **AI Support Chatbot** — a Retrieval-Augmented (RAG) assistant that answers customer questions from *your* documents & products, **with sources** — and says *"I don't know"* rather than guess.
+- **ghostshield** — an LLM security scanner that fires real prompt-injection attacks at a model, so the bots I ship are tested, not just trusted.
+
+<br>
+
+## Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-1a1a1a?style=flat-square&logo=python&logoColor=faf9f6)
+![TypeScript](https://img.shields.io/badge/TypeScript-1a1a1a?style=flat-square&logo=typescript&logoColor=faf9f6)
+![LangChain](https://img.shields.io/badge/LangChain-1a1a1a?style=flat-square&logo=langchain&logoColor=faf9f6)
+![OpenAI](https://img.shields.io/badge/GPT-1a1a1a?style=flat-square&logo=openai&logoColor=faf9f6)
+![Anthropic](https://img.shields.io/badge/Claude-1a1a1a?style=flat-square&logo=anthropic&logoColor=faf9f6)
+<br>
+![Next.js](https://img.shields.io/badge/Next.js-1a1a1a?style=flat-square&logo=nextdotjs&logoColor=faf9f6)
+![React](https://img.shields.io/badge/React-1a1a1a?style=flat-square&logo=react&logoColor=faf9f6)
+![Shopify](https://img.shields.io/badge/Shopify-1a1a1a?style=flat-square&logo=shopify&logoColor=faf9f6)
+![FastAPI](https://img.shields.io/badge/FastAPI-1a1a1a?style=flat-square&logo=fastapi&logoColor=faf9f6)
+![Postgres](https://img.shields.io/badge/Vector%20DB-1a1a1a?style=flat-square&logo=postgresql&logoColor=faf9f6)
+
+</div>
+
+<br>
+
+## Work with me
+
+<div align="center">
+
+Every build ships **clean, documented, and rigorously tested** — with transparency the whole way.
+
+[![Visit Portfolio](https://img.shields.io/badge/→%20See%20demos%20%26%20work%20at%20mhxmllc.com-1a1a1a?style=for-the-badge&labelColor=1a1a1a&color=1a1a1a)](https://www.mhxmllc.com)
+
+<br>
+
+*Grounded over guessing · Sources over confidence · Signal over noise.*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:efece4,100:faf9f6&height=90&section=footer"/>
 
 </div>
