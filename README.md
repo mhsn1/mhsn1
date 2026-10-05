@@ -18,7 +18,7 @@
 
 <br>
 
-I'm a **security researcher** focused on **smart contracts and web3**, with a background in offensive security and LLM red-teaming. I go after the bugs that survive audits — **broken access control, accounting & invariant defects, and logic flaws that move real funds** — and I don't report anything without a **runnable proof-of-concept**. Equally comfortable **breaking** systems and **building** the tooling to keep them honest.
+I'm a **security researcher** focused on **smart contracts and web3**, with a background in offensive security and LLM red-teaming. I go after the bugs that survive audits  **broken access control, accounting & invariant defects, and logic flaws that move real funds**  and I don't report anything without a **runnable proof-of-concept**. Equally comfortable **breaking** systems and **building** the tooling to keep them honest.
 
 <br>
 
