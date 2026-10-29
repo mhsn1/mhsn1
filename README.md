@@ -10,7 +10,7 @@
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-mhsnarf-1a1a1a?style=for-the-badge&labelColor=1a1a1a&logo=tryhackme&logoColor=faf9f6)](https://tryhackme.com/p/mhsnarf)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/→%20mhxmllc.com-1a1a1a?style=for-the-badge&labelColor=1a1a1a)](https://www.mhxmllc.com)
+[![Portfolio](https://img.shields.io/badge/%E2%86%92%20mhxmllc.com-1a1a1a?style=for-the-badge&labelColor=1a1a1a)](https://www.mhxmllc.com)
 
 <sub>Smart Contracts · DeFi · Web / AppSec · LLM Security &nbsp;·&nbsp; Karachi, Pakistan 🇵🇰</sub>
 
@@ -56,9 +56,9 @@ I'm a **security researcher** focused on **smart contracts and web3**, with a ba
 
 <div align="center">
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=mhsn1&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=faf9f6&title_color=1a1a1a&icon_color=2f7d5b&text_color=444444&ring_color=2f7d5b" />
+<img height="155" src="https://github-readme-stats-sigma.vercel.app/api?username=mhsn1&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=faf9f6&title_color=1a1a1a&icon_color=2f7d5b&text_color=444444&ring_color=2f7d5b" />
 &nbsp;
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhsn1&layout=compact&hide_border=true&bg_color=faf9f6&title_color=1a1a1a&text_color=444444&langs_count=6" />
+<img height="155" src="https://github-readme-stats-sigma.vercel.app/api/top-langs/?username=mhsn1&layout=compact&hide_border=true&bg_color=faf9f6&title_color=1a1a1a&text_color=444444&langs_count=6" />
 
 </div>
 
