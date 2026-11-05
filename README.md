@@ -46,7 +46,6 @@ I'm a **security researcher** focused on **smart contracts and web3**, with a ba
 
 ### Selected work
 
-- 🛡️ **CVE-2026-111463 — Apache DolphinScheduler** &nbsp;—&nbsp; reported an **incorrect-authorization** flaw (incomplete fix of CVE-2026-57590): any ordinary user could enable/disable and reprioritise another project's task groups across tenants. **Confirmed by the project PMC + ASF Security Team; CVE assigned with reporter credit.** &nbsp;[`cve.org`](https://www.cve.org/CVERecord?id=CVE-2026-111463)
 - **[sky-dodger](https://github.com/mhsn1/sky-dodger)** &nbsp;—&nbsp; browser airplane game — **HTML5 Canvas + vanilla JS**, `requestAnimationFrame` loop, momentum flight, procedural obstacles, GitHub Pages deploy. &nbsp;`JavaScript`
 - **[snake-java](https://github.com/mhsn1/snake-java)** &nbsp;—&nbsp; classic Snake in **Java 17 + Swing** with a fully **GUI-independent, unit-tested engine** (26 tests, zero deps, CI) — clean OOP, O(1) collision via `ArrayDeque` + `HashSet`. &nbsp;`Java`
 - **[ghostshield](https://github.com/mhsn1/ghostshield)** &nbsp;—&nbsp; an **LLM security scanner** that fires real prompt-injection attacks at a model and reports what gets through. &nbsp;`TypeScript`
