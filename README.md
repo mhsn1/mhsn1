@@ -58,9 +58,16 @@ I'm a **security researcher** focused on **smart contracts and web3**, with a ba
 
 <div align="center">
 
-<img height="155" src="https://github-readme-stats-sigma.vercel.app/api?username=mhsn1&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=faf9f6&title_color=1a1a1a&icon_color=2f7d5b&text_color=444444&ring_color=2f7d5b" />
+[![GitHub followers](https://img.shields.io/github/followers/mhsn1?style=flat-square&labelColor=1a1a1a&color=2f7d5b&logo=github&logoColor=faf9f6)](https://github.com/mhsn1)
 &nbsp;
-<img height="155" src="https://github-readme-stats-sigma.vercel.app/api/top-langs/?username=mhsn1&layout=compact&hide_border=true&bg_color=faf9f6&title_color=1a1a1a&text_color=444444&langs_count=6" />
+![Profile views](https://komarev.com/ghpvc/?username=mhsn1&style=flat-square&color=2f7d5b&label=profile+views)
+
+<br><br>
+
+![Solidity](https://img.shields.io/badge/Solidity-1a1a1a?style=flat-square&logo=solidity&logoColor=faf9f6)
+![Java](https://img.shields.io/badge/Java-1a1a1a?style=flat-square&logo=openjdk&logoColor=faf9f6)
+![Python](https://img.shields.io/badge/Python-1a1a1a?style=flat-square&logo=python&logoColor=faf9f6)
+![TypeScript](https://img.shields.io/badge/TypeScript-1a1a1a?style=flat-square&logo=typescript&logoColor=faf9f6)
 
 </div>
 
