@@ -57,15 +57,5 @@ I'm a **security researcher** focused on **smart contracts and web3**, with a ba
 <br>
 
 <div align="center">
-
-[![GitHub followers](https://img.shields.io/github/followers/mhsn1?style=flat-square&labelColor=1a1a1a&color=2f7d5b&logo=github&logoColor=faf9f6)](https://github.com/mhsn1)
-&nbsp;
-![Profile views](https://komarev.com/ghpvc/?username=mhsn1&style=flat-square&color=2f7d5b&label=profile+views)
-
-</div>
-
-<br>
-
-<div align="center">
 <sub>*Signal over noise · PoC or it didn't happen · Instruments, not dashboards.*</sub>
 </div>
