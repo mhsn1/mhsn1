@@ -32,6 +32,8 @@ I'm a **security researcher** focused on **smart contracts and web3**, with a ba
 
 ### Selected work
 
+- 🛡️ **CVE-2026-111463 — Apache DolphinScheduler** &nbsp;—&nbsp; reported an **incorrect-authorization** flaw (incomplete fix of CVE-2026-57590): any ordinary user could enable/disable and reprioritise another project's task groups across tenants. **Confirmed by the project PMC + ASF Security Team; CVE assigned with reporter credit.** &nbsp;[`cve.org`](https://www.cve.org/CVERecord?id=CVE-2026-111463)
+- **[snake-java](https://github.com/mhsn1/snake-java)** &nbsp;—&nbsp; classic Snake in **Java 17 + Swing** with a fully **GUI-independent, unit-tested engine** (26 tests, zero deps, CI) — clean OOP, O(1) collision via `ArrayDeque` + `HashSet`. &nbsp;`Java`
 - **[ghostshield](https://github.com/mhsn1/ghostshield)** &nbsp;—&nbsp; an **LLM security scanner** that fires real prompt-injection attacks at a model and reports what gets through. &nbsp;`TypeScript`
 - **[ghost-resource-tracker](https://github.com/mhsn1/ghost-resource-tracker)** &nbsp;—&nbsp; detects hidden cryptominers by **power signature** — threat scoring + Shannon entropy. &nbsp;`Python`
 - **Open-source security research** &nbsp;—&nbsp; reviewing Google OSS internals ([Timesketch](https://github.com/mhsn1/timesketch) · [GRR](https://github.com/mhsn1/grr)) for security issues.
@@ -44,6 +46,7 @@ I'm a **security researcher** focused on **smart contracts and web3**, with a ba
 <div align="center">
 
 ![Solidity](https://img.shields.io/badge/Solidity-1a1a1a?style=flat-square&logo=solidity&logoColor=faf9f6)
+![Java](https://img.shields.io/badge/Java-1a1a1a?style=flat-square&logo=openjdk&logoColor=faf9f6)
 ![Foundry](https://img.shields.io/badge/Foundry-1a1a1a?style=flat-square&logo=forge&logoColor=faf9f6)
 ![Python](https://img.shields.io/badge/Python-1a1a1a?style=flat-square&logo=python&logoColor=faf9f6)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-1a1a1a?style=flat-square&logo=burpsuite&logoColor=faf9f6)
